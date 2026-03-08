@@ -1,0 +1,23 @@
+@keyframes progressBar {
+    from {
+        width: 100%;
+    }
+    to {
+        width: 0%;
+    }
+}
+.animate-progress {
+    animation: progressBar 3s linear forwards;
+}
+
+@keyframes progressBar {
+    from {
+        width: 100%;
+    }
+    to {
+        width: 0%;
+    }
+}
+.animate-progresss {
+    animation: progressBar 1s linear forwards;
+}
