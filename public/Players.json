@@ -8,7 +8,7 @@
     "bowling_style": "Slow Left-Arm Orthodox",
     "rating": 4.8,
     "price": 1500000,
-    "image": "https://images.unsplash.com/photo-1593341646782-e0b495cff86d?auto=format&fit=crop&w=600&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYdY_K-m5XPblXaOy8CkR3VuvkrhyKFcxGA&s",
     "flag": "https://flagcdn.com/w40/bd.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   },
@@ -21,7 +21,7 @@
     "bowling_style": "None",
     "rating": 4.3,
     "price": 1200000,
-    "image": "https://dummyimage.com/400x400/808080/ffffff&text=Tamim+Iqbal",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/319000/319012.6.jpg",
     "flag": "https://flagcdn.com/w40/bd.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   },
@@ -34,7 +34,7 @@
     "bowling_style": "None",
     "rating": 4.5,
     "price": 1300000,
-    "image": "https://dummyimage.com/400x400/808080/ffffff&text=Mushfiqur+Rahim",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFNI3foX2E-TuIJBwH4T4VszILkaG3TYK3scMc0VwL3zC3oA6rada_HXmDbl6RyvKkFR91a4DNSw8bLodCkJTkbrFvhtNlZprwWyOCyM&s=10",
     "flag": "https://flagcdn.com/w40/bd.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   },
@@ -47,7 +47,7 @@
     "bowling_style": "Right-Arm Medium",
     "rating": 5.0,
     "price": 2000000,
-    "image": "https://dummyimage.com/400x400/808080/ffffff&text=Virat+Kohli",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/385000/385062.6.jpg",
     "flag": "https://flagcdn.com/w40/in.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   },
@@ -60,7 +60,7 @@
     "bowling_style": "Right-Arm Off Break",
     "rating": 4.7,
     "price": 1800000,
-    "image": "https://dummyimage.com/400x400/808080/ffffff&text=Rohit+Sharma",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/384900/384963.6.jpg",
     "flag": "https://flagcdn.com/w40/in.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   },
@@ -73,7 +73,7 @@
     "bowling_style": "Right-Arm Fast",
     "rating": 4.9,
     "price": 1700000,
-    "image": "https://dummyimage.com/400x400/808080/ffffff&text=Jasprit+Bumrah",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/385500/385567.6.jpg",
     "flag": "https://flagcdn.com/w40/in.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   },
@@ -86,7 +86,7 @@
     "bowling_style": "Right-Arm Medium Fast",
     "rating": 4.6,
     "price": 1600000,
-    "image": "https://dummyimage.com/400x400/808080/ffffff&text=Hardik+Pandya",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/374300/374316.6.jpg",
     "flag": "https://flagcdn.com/w40/in.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   },
@@ -99,7 +99,7 @@
     "bowling_style": "None",
     "rating": 4.2,
     "price": 1100000,
-    "image": "https://dummyimage.com/400x400/808080/ffffff&text=Litton+Das",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/369300/369399.6.jpg",
     "flag": "https://flagcdn.com/w40/bd.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   },
@@ -112,8 +112,86 @@
     "bowling_style": "Right-Arm Off Break",
     "rating": 4.6,
     "price": 1400000,
-    "image": "https://dummyimage.com/400x400/808080/ffffff&text=Mahmudullah+Riyad",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/392700/392766.jpg",
     "flag": "https://flagcdn.com/w40/bd.png",
+    "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
+  },
+  {
+    "id": 10,
+    "name": "Mehidy Hasan Miraz",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Off Break",
+    "rating": 4.4,
+    "price": 1250000,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/368400/368425.6.jpg",
+    "flag": "https://flagcdn.com/w40/bd.png",
+    "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
+  },
+  {
+    "id": 11,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Left-Arm Fast Medium",
+    "rating": 4.6,
+    "price": 1500000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqOAal9rgAzjc0HhDvMhlwmwJpi2wpaOtFBnqWueu7iMPK68VJwZfbQDX_Hm8wFXKF-hKbLXWim6G_5k-ZoarFHrjJOWyHwIZA2TcEs08&s=10",
+    "flag": "https://flagcdn.com/w40/bd.png",
+    "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
+  },
+  {
+    "id": 12,
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast",
+    "rating": 4.5,
+    "price": 1400000,
+    "image": "https://images.icc-cricket.com/image/upload/t_ratio21_9-size50-webp/prd/bn4koeisolflrhcialzx",
+    "flag": "https://flagcdn.com/w40/bd.png",
+    "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
+  },
+  {
+    "id": 13,
+    "name": "KL Rahul",
+    "country": "India",
+    "role": "Wicket-Keeper",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "None",
+    "rating": 4.6,
+    "price": 1750000,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/374300/374317.6.jpg",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
+  },
+  {
+    "id": 14,
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "role": "All-Rounder",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Slow Left-Arm Orthodox",
+    "rating": 4.8,
+    "price": 1900000,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/374300/374318.6.jpg",
+    "flag": "https://flagcdn.com/w40/in.png",
+    "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
+  },
+  {
+    "id": 15,
+    "name": "Mohammed Shami",
+    "country": "India",
+    "role": "Bowler",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast",
+    "rating": 4.7,
+    "price": 1650000,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/374300/374319.6.jpg",
+    "flag": "https://flagcdn.com/w40/in.png",
     "personIcon": "https://img.icons8.com/ios-filled/50/000000/user.png"
   }
 ]

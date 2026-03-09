@@ -13,9 +13,9 @@ const Player = ({ player, handleSelectPlayer }) => {
   } = player;
   return (
     <div className="border border-gray-300 rounded-lg p-4 xl:p-6  ">
-      <div className="">
+      <div className="w-full object-fill">
         <img
-          className=" rounded-md w-full lg:max-h-72 object-fill "
+          className=" rounded-md w-full md:h-40 lg:h-60 object-fill "
           src={image}
           alt=""
         />
