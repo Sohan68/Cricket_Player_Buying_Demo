@@ -4,7 +4,7 @@ const HalfFooter = () => {
   return (
     <div
       id="halfFooter"
-      className="absolute xl:bottom-96 md:bottom-[400px] sm:bottom-60 md:left-12 xl:left-36 min-[1441px]:left-44 md:w-[90%]
+      className="absolute xl:bottom-96 md:bottom-[400px] sm:bottom-60 md:left-[5%] xl:left-[10%] md:w-[90%]
       xl:w-[80%] mx-auto h-72 min-[1441px]:h-80 rounded-xl hero  border border-white my-56 p-4 min-[1441px]:px-8 "
     >
       <div
