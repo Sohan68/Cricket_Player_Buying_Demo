@@ -8,7 +8,7 @@ const HalfFooter = () => {
       xl:w-[80%] mx-auto h-72 min-[1441px]:h-80 rounded-xl hero  border border-white my-56 p-4 min-[1441px]:px-8 "
     >
       <div
-        className="  text-center rounded-xl bg-slate-100 bg-no-repeat border border-gray-200  p-12 w-full mx-auto"
+        className="  text-center bg-cover bg-center rounded-xl bg-slate-100 bg-no-repeat border border-gray-200  p-12 w-full mx-auto"
         style={{ backgroundImage: `url(${img_4})` }}
       >
         <div className="max-w-md mx-auto">

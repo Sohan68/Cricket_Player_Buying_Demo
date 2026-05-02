@@ -8,7 +8,7 @@ const Header = ({ count }) => {
           <div className="container mx-auto lg:px-12 xl:px-0 flex items-center justify-between navbar py-4 my-2">
             <img className="w-[80px]" src={img_1} alt="main-benner" />
 
-            <div className="flex gap-4 text-gray-600 items-center font-bold">
+            <div className="flex gap-4 text-gray-800 items-center font-bold">
               <button className="btn btn-ghost">
                 {" "}
                 <a href="#">Home</a>
