@@ -12,9 +12,9 @@ const HalfFooter = () => {
         style={{ backgroundImage: `url(${img_4})` }}
       >
         <div className="max-w-md mx-auto">
-          <h1 className="text-3xl font-bold">Subscribe to our Newsletter</h1>
+          <h1 className="text-3xl font-bold">Subscribe to our Newsletter </h1>
           <p className="py-6 text-lg">
-            Get the letest update and news right in your box !{" "}
+            Get the letest update and news right in your box!{" "}
           </p>
           <div className=" flex place-items-center gap-6">
             {" "}
